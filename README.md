@@ -11,3 +11,8 @@
  https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro
 
  
+ https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-using-the-dotnet-cli
+
+ cloudinary dotnet
+ https://cloudinary.com/documentation/dotnet_integration#quick_example_transformations
+ 
